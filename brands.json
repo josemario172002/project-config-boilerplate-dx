@@ -1,0 +1,20 @@
+{
+    "brands": [
+        {
+            "name": "NossaSeguros",
+            "description": "Branding e identidade da Nossa Seguros"
+        },
+        {
+            "name": "KeepComply",
+            "description": "Branding e identidade da KeepComply"
+        },
+        {
+            "name": "Portaldemo",
+            "description": "Branding e identidade do Portal de denuncias demo"
+        },
+        {
+            "name": "PortalNossa",
+            "description": "Branding e identidade do Portal de denuncias da Nossa Seguros"
+        }
+    ]
+}

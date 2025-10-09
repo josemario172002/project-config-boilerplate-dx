@@ -1,0 +1,28 @@
+{
+    "name": "project-config-boilerplate-dx",
+    "version": "0.1.4",
+    "description": "CLI para criação de novos sistemas e atualização de brandings com pastas pré-definidas",
+    "main": "index.js",
+    "bin": {
+        "project-config": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cli",
+        "boilerplate",
+        "branding",
+        "scaffolding"
+    ],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "fs-extra": "^11.1.1",
+        "inquirer": "^8.2.5"
+    }
+}
