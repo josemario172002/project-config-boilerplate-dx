@@ -15,6 +15,10 @@
         {
             "name": "PortalNossa",
             "description": "Branding e identidade do Portal de denuncias da Nossa Seguros"
+        },
+        {
+            "name": "GlobalSeguros",
+            "description": "Branding e identidade da Global Seguros"
         }
     ]
 }
