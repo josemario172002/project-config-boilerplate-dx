@@ -1,6 +1,6 @@
 {
     "name": "project-config-boilerplate-dx",
-    "version": "0.2.1",
+    "version": "0.2.4",
     "description": "CLI para criação de novos sistemas e atualização de brandings com pastas pré-definidas",
     "main": "index.js",
     "bin": {
