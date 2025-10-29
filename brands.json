@@ -19,6 +19,10 @@
         {
             "name": "GlobalSeguros",
             "description": "Branding e identidade da Global Seguros"
+        },
+        {
+            "name": "fortalezaseguros",
+            "description": "Branding e identidade da Fortaleza Seguros"
         }
     ]
 }
