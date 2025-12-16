@@ -1,2 +1,3 @@
 
-export const branding = "KeepComply"
+export const branding = "Global Seguros"
+export const colorInPDF = "blue"
