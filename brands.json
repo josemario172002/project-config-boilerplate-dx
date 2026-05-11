@@ -27,6 +27,10 @@
         {
             "name": "portalrfortaleza",
             "description": "Branding e identidade da Fortaleza Seguros"
+        },
+        {
+            "name": "solseguros",
+            "description": "Branding e identidade da Sol Seguros"
         }
     ]
 }
